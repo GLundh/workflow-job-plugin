@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: workflow-job-plugin
+  annotations:
+    github.com/project-slug: GLundh/workflow-job-plugin
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
